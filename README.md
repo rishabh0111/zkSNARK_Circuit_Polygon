@@ -1,6 +1,6 @@
 A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) project to generate zero-knowledge circuits, proofs, and solidity verifiers for the below gate configuration:
 
-![image](https://github.com/rishabh0111/zkSNARK_Circuit_Polygon/assets/115526596/6246ffda-ffb9-4bfa-9e3d-997c65706a37)
+![image](https://github.com/rishabh0111/zkSNARK_Circuit_Polygon/assets/115526596/5f26590b-ccc0-4aa4-bec5-e9c3ea013ab1)
 
 
 ## Quick Start
